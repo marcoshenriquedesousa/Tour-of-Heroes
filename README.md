@@ -1,5 +1,7 @@
 # TourOfHeroes
 
+![Tour Of Heroes](https://github.com/marcoshenriquedesousa/Tour-of-Heroes/blob/master/Tour-of-Heroes.gif)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
